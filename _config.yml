@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Sam Rawlings"
   avatar           : "profile.png"
-  bio              : "Applied microeconomist, focusing on gender, economics of the household, and health and human capital attainment.
-  Associate Professor at University of Reading, Department of Economics"
+  bio              : "Applied microeconomist, focusing on gender, economics of the household, and health and human capital attainment." "Associate Professor at University of Reading, Department of Economics"
   location         : "Reading, UK"
-  employer         : "University of Reading"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=TJmdxzEAAAAJ&hl=en"
   email            : 
