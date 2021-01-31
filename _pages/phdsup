@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "PhD Supervision"
+permalink: /phdsup/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.phdsup %}
+  {% include archive-single.html %}
+{% endfor %}
